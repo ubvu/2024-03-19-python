@@ -1,1 +1,1 @@
-This folder is for your Jupyter notebooks.
+This folder is for your Jupyter notebooks
